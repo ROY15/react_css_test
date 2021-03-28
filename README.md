@@ -1,2 +1,2 @@
-# react_css_test
+# react_test
 Created with CodeSandbox
